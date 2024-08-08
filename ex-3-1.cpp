@@ -10,3 +10,4 @@ int main(void){
 	printf(" x > y ==> %d \n ",bool_value);
 	bool_value = ( x < y );
 	printf(" x < y ==> %d \n ",bool_value);	
+}
